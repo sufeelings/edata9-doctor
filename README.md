@@ -1,6 +1,6 @@
-# 🦉 부엉박사
+# 🦉 Junior James
 
-<img src="캐릭터.svg" width="200" alt="부엉박사">
+<img src="캐릭터.svg" width="200" alt="Junior James">
 
 | 등급 | 레벨 | 경험치 | 도감 |
 |---|---|---|---|
