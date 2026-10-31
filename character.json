@@ -1,0 +1,24 @@
+{
+  "game": "edata9-doctor",
+  "v": 1,
+  "name": "부엉박사",
+  "mascot": "owl",
+  "created": "2026-10-28",
+  "quests": {
+    "W1-금": {
+      "기본": "2026-10-30"
+    }
+  },
+  "captures": {
+    "W1-수": "2026-10-28",
+    "W1-금": "2026-10-30"
+  },
+  "dex": {},
+  "summary": {
+    "xp": 140,
+    "level": 4,
+    "grade": "견습생",
+    "dex": 0,
+    "hatched": true
+  }
+}
